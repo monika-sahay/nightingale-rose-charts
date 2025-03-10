@@ -1,2 +1,0 @@
-from scripts.data_preparation import prepare_data
-from scripts.visualization import plot_rose_chart
